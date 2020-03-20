@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "103220657048",
+    "firebase_url": "https://onepieceapp-52fa6.firebaseio.com",
+    "project_id": "onepieceapp-52fa6",
+    "storage_bucket": "onepieceapp-52fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103220657048:android:af9b98af281a3630c3c9ed",
+        "android_client_info": {
+          "package_name": "com.example.onepieceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103220657048-b3eecm171vo9f8jbt5atvpudmf46in4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onepieceapp",
+            "certificate_hash": "cf160aef5ad6db6e7cf5e2ba911a967fe9abcbe7"
+          }
+        },
+        {
+          "client_id": "103220657048-lfg50c6btrjf404pgiiilnbps0bjc71f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAExPzHtLxxNKG7Fwadx2GkJ5kMAd-TECA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103220657048-lfg50c6btrjf404pgiiilnbps0bjc71f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

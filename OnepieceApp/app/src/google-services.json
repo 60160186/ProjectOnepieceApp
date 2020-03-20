@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712728820293",
+    "firebase_url": "https://onepieceapp-eed2a.firebaseio.com",
+    "project_id": "onepieceapp-eed2a",
+    "storage_bucket": "onepieceapp-eed2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712728820293:android:4af086e3fd29b76f0c012c",
+        "android_client_info": {
+          "package_name": "com.example.onepieceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712728820293-af27sh0snf0p1i4h1rr0romrkjtrco0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK45wzX6SbmbFIJ92Ob0hzmyN1xcLTJSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712728820293-af27sh0snf0p1i4h1rr0romrkjtrco0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

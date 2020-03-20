@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    tools:context=".Menu">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="791dp"
+        android:layout_marginLeft="310px"
+        android:text="Menu"
+        android:textSize="200px" />
+
+    <Button
+        android:id="@+id/character"
+        android:text="Character"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="400px" />
+
+    <Button
+        android:id="@+id/score"
+        android:text="Vote character"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="200px" />
+
+    <Button
+        android:id="@+id/logout"
+        android:text="logout"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="0px" />
+
+</FrameLayout>

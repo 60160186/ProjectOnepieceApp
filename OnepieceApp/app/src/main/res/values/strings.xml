@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnepieceApp</string>
+
+    <string name="facebook_app_id">226894998431000</string>
+    <string name="fb_login_protocol_scheme">fb226894998431000</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
